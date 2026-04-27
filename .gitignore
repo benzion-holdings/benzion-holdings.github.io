@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+CLAUDE.md
+.claude/
+assets/images/*.png
+!assets/images/og-image.png
