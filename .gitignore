@@ -5,3 +5,7 @@ CLAUDE.md
 .claude/
 assets/images/*.png
 !assets/images/og-image.png
+!assets/images/favicon-32.png
+!assets/images/favicon-192.png
+!assets/images/favicon-512.png
+!assets/images/apple-touch-icon.png
